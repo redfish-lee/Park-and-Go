@@ -7,3 +7,6 @@ A iOS application used to record daily parking position. We'll never forget our 
 
 ## Screenshot
 ![General View](http://i.imgur.com/hGDFHzll.png)
+
+## Release Note
+- v1.0, Aug 2016
