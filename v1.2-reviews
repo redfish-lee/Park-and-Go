@@ -1,0 +1,12 @@
+# v1.2 Reviews
+Released Date: Sep 12, 2016
+
+## Improvements
+1. Add more screenshots
+2. UI improvements
+3. Change devices compatibility to iOS 8.0 or later.
+4. Support armv7s devices, such as iPhone5/5C
+5. Add new zh-TW alias **交大A彭找車器**
+
+## Todo
+- temp.caseinsensitive fix
